@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeiChenMidTermTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8965181617a542b9818ece6de83503cd300b4941")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeiChenMidTermTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeiChenMidTermTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
